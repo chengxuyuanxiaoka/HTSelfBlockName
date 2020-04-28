@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
  Add HTSelfBlockName of the pod here,this is a san fang.
                        DESC
 
-  s.homepage         = 'https://github.com/hanteng/HTSelfBlockName'
+  s.homepage         = 'https://github.com/chengxuyuanxiaoka/HTSelfBlockName'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hanteng' => '1246901487@qq.com' }
-  s.source           = { :git => 'https://github.com/hanteng/HTSelfBlockName.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/chengxuyuanxiaoka/HTSelfBlockName.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'HTSelfBlockName/Classes/**/*'
   
