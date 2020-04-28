@@ -1,0 +1,6 @@
+framework module HTSelfBlockName {
+  umbrella header "HTSelfBlockName-umbrella.h"
+
+  export *
+  module * { export * }
+}

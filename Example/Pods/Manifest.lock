@@ -1,0 +1,16 @@
+PODS:
+  - HTSelfBlockName (0.1.0)
+
+DEPENDENCIES:
+  - HTSelfBlockName (from `../`)
+
+EXTERNAL SOURCES:
+  HTSelfBlockName:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTSelfBlockName: a1a7e4a4ca3fa8ef128ce3461ed7092bff42a3f3
+
+PODFILE CHECKSUM: 6fbae98569b6aa71bf767177c2531b150994c37e
+
+COCOAPODS: 1.9.1
